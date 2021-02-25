@@ -1,6 +1,9 @@
 # tic-tac-toe-oop
 Object-Oriented TicTacToe Tutorial
 
+- [YouTube](https://youtu.be/Kr5NqmxgjzM)
+- [Meetup](https://www.meetup.com/OrlandoPython/events/nwxzbsyccdbfc/)
+
 ## Introduction
 
 This is an very simple tutorial by <Fred.sells@sunrise.com> that focuses on the structure of code and pattern recognition more than the syntax of Python. This beginning tutorial on Python goes from a simple, inline coding example to the more structured Model-View-Controller (MVC) design pattern, where:
